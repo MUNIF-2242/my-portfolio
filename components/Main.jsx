@@ -23,7 +23,7 @@ const Main = () => {
           </p>
           <div className="flex items-center justify-between max-w-[330px] m-auto py-4">
             <a
-              href="https://www.linkedin.com/in/clint-briley-50056920a/"
+              href="https://www.linkedin.com/in/munif-hasan-pulok-790b6a170/"
               target="_blank"
               rel="noreferrer"
             >
@@ -32,7 +32,7 @@ const Main = () => {
               </div>
             </a>
             <a
-              href="https://github.com/fireclint"
+              href="https://github.com/MUNIF-2242"
               target="_blank"
               rel="noreferrer"
             >
